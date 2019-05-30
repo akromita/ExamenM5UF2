@@ -28,3 +28,9 @@ C:\Users\akroma\Desktop\proves\Llibreria\obj\Debug\Llibreria.csprojAssemblyRefer
 C:\Users\akroma\Desktop\proves\Llibreria\obj\Debug\Llibreria.csproj.CoreCompileInputs.cache
 C:\Users\akroma\Desktop\proves\Llibreria\obj\Debug\Llibreria.dll
 C:\Users\akroma\Desktop\proves\Llibreria\obj\Debug\Llibreria.pdb
+C:\Users\akroma\Documents\GitHub\ExamenM5UF2\Llibreria\bin\Debug\Llibreria.dll
+C:\Users\akroma\Documents\GitHub\ExamenM5UF2\Llibreria\bin\Debug\Llibreria.pdb
+C:\Users\akroma\Documents\GitHub\ExamenM5UF2\Llibreria\obj\Debug\Llibreria.csprojAssemblyReference.cache
+C:\Users\akroma\Documents\GitHub\ExamenM5UF2\Llibreria\obj\Debug\Llibreria.csproj.CoreCompileInputs.cache
+C:\Users\akroma\Documents\GitHub\ExamenM5UF2\Llibreria\obj\Debug\Llibreria.dll
+C:\Users\akroma\Documents\GitHub\ExamenM5UF2\Llibreria\obj\Debug\Llibreria.pdb

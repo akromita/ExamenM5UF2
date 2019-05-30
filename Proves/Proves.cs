@@ -17,6 +17,16 @@ namespace Proves
             Console.WriteLine("Resultado: " + resultat);
             Assert.AreEqual(true, resultat);
         }
-      
+
+        [TestMethod]
+        public void EsMesGran()
+        {
+            Int32 resultat;
+            ClEncriptar clE = new ClEncriptar();
+            resultat = clE.EsMesGran(24, 22);
+            Console.WriteLine("Resultado: " + resultat);
+            Assert.AreEqual(24, resultat);
+        }
+
     }
 }
