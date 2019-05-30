@@ -86,6 +86,33 @@ namespace Llibreria
 
             return resultat;
         }
+
+        //te que retornar tots els divisors, probarem amb 4 tindria que retornar 0,1,2,4
+        public String Divisors(Int32 n)
+        {
+            Int32 minim = 1;    //aquest sempre sera el numero minim per el qual dividir
+            Int32 maxim = n;    //maxim numero fins el que calculara (ell mateix)
+            String resultat = "0,";      //nosaltres indiquem el 0 perque sino provoca excepcio, i tots els numeros son divisibles per 0      
+            //mentre que minim sigui diferent a n anem fent el bucle
+            while (minim < n)
+            {
+                //si el residu es 0, significa que es pot dividir
+                if (n % minim == 0)
+                {
+                    resultat = resultat + minim + ',';
+                    minim++;
+                }
+                else
+                {
+                    minim++;
+                }
+            }
+
+            //afegim el propi numero, perque també es divisible
+            resultat = resultat + n;
+
+            return resultat;
+        }
     }
 }
 

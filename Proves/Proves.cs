@@ -38,5 +38,15 @@ namespace Proves
             Assert.AreEqual(15, resultat);
         }
 
+        [TestMethod]
+        public void Divisors()
+        {
+            String resultat;
+            ClEncriptar clE = new ClEncriptar();
+            resultat = clE.Divisors(4);
+            Console.WriteLine("Resultado:" + resultat);
+            Assert.AreEqual("0,1,2,4", resultat);
+        }
+
     }
 }
