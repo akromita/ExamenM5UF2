@@ -28,5 +28,15 @@ namespace Proves
             Assert.AreEqual(24, resultat);
         }
 
+        [TestMethod]
+        public void EsMesPetit()
+        {
+            Int32 resultat;
+            ClEncriptar clE = new ClEncriptar();
+            resultat = clE.EsMesPetit(17, 15);
+            Console.WriteLine("Resultado: " + resultat);
+            Assert.AreEqual(15, resultat);
+        }
+
     }
 }
