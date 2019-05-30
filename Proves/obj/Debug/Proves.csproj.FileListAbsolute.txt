@@ -1,0 +1,95 @@
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Proves.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Proves.pdb
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Llibreria.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Llibreria.pdb
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\obj\Debug\Proves.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\obj\Debug\Proves.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\obj\Debug\Proves.csproj.CopyComplete
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\obj\Debug\Proves.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Proves\obj\Debug\Proves.pdb
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Proves.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Proves.pdb
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Llibreria.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Llibreria.pdb
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\obj\Debug\Proves.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\obj\Debug\Proves.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\obj\Debug\Proves.csproj.CopyComplete
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\obj\Debug\Proves.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Proves\obj\Debug\Proves.pdb
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Proves.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Proves.pdb
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Llibreria.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Llibreria.pdb
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\obj\Debug\Proves.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\obj\Debug\Proves.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\obj\Debug\Proves.csproj.CopyComplete
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\obj\Debug\Proves.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Proves\obj\Debug\Proves.pdb
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Proves.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Proves.pdb
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Llibreria.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Llibreria.pdb
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\Gerard\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\Gerard\Desktop\proves\Proves\obj\Debug\Proves.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\proves\Proves\obj\Debug\Proves.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\proves\Proves\obj\Debug\Proves.csproj.CopyComplete
+C:\Users\Gerard\Desktop\proves\Proves\obj\Debug\Proves.dll
+C:\Users\Gerard\Desktop\proves\Proves\obj\Debug\Proves.pdb
+C:\Users\akroma\Desktop\proves\Proves\obj\Debug\Proves.csprojAssemblyReference.cache
+C:\Users\akroma\Desktop\proves\Proves\obj\Debug\Proves.csproj.CoreCompileInputs.cache
+C:\Users\akroma\Desktop\proves\Proves\obj\Debug\Proves.dll
+C:\Users\akroma\Desktop\proves\Proves\obj\Debug\Proves.pdb
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Proves.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Proves.pdb
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Llibreria.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Llibreria.pdb
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+C:\Users\akroma\Desktop\proves\Proves\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+C:\Users\akroma\Desktop\proves\Proves\obj\Debug\Proves.csproj.CopyComplete

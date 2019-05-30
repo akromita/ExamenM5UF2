@@ -1,0 +1,30 @@
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Llibreria\bin\Debug\Llibreria.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Llibreria\bin\Debug\Llibreria.pdb
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Llibreria\obj\Debug\Llibreria.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Llibreria\obj\Debug\Llibreria.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Llibreria\obj\Debug\Llibreria.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria\Llibreria\obj\Debug\Llibreria.pdb
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Llibreria\bin\Debug\Llibreria.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Llibreria\bin\Debug\Llibreria.pdb
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Llibreria\obj\Debug\Llibreria.csprojAssemblyReference.cache
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Llibreria\obj\Debug\Llibreria.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Llibreria\obj\Debug\Llibreria.dll
+C:\Users\adria\OneDrive\Documentos\DAM\M5\UF2\Llibreria - copia\Llibreria\obj\Debug\Llibreria.pdb
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Llibreria\bin\Debug\Llibreria.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Llibreria\bin\Debug\Llibreria.pdb
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Llibreria\obj\Debug\Llibreria.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Llibreria\obj\Debug\Llibreria.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Llibreria\obj\Debug\Llibreria.dll
+C:\Users\Gerard\Desktop\Examen M5 UF2 Adria Calvo\Llibreria\obj\Debug\Llibreria.pdb
+C:\Users\Gerard\Desktop\proves\Llibreria\bin\Debug\Llibreria.dll
+C:\Users\Gerard\Desktop\proves\Llibreria\bin\Debug\Llibreria.pdb
+C:\Users\Gerard\Desktop\proves\Llibreria\obj\Debug\Llibreria.csprojAssemblyReference.cache
+C:\Users\Gerard\Desktop\proves\Llibreria\obj\Debug\Llibreria.csproj.CoreCompileInputs.cache
+C:\Users\Gerard\Desktop\proves\Llibreria\obj\Debug\Llibreria.dll
+C:\Users\Gerard\Desktop\proves\Llibreria\obj\Debug\Llibreria.pdb
+C:\Users\akroma\Desktop\proves\Llibreria\bin\Debug\Llibreria.dll
+C:\Users\akroma\Desktop\proves\Llibreria\bin\Debug\Llibreria.pdb
+C:\Users\akroma\Desktop\proves\Llibreria\obj\Debug\Llibreria.csprojAssemblyReference.cache
+C:\Users\akroma\Desktop\proves\Llibreria\obj\Debug\Llibreria.csproj.CoreCompileInputs.cache
+C:\Users\akroma\Desktop\proves\Llibreria\obj\Debug\Llibreria.dll
+C:\Users\akroma\Desktop\proves\Llibreria\obj\Debug\Llibreria.pdb
